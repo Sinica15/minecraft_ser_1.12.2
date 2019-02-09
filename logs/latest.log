@@ -1,0 +1,236 @@
+[22:21:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:21:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:21:33] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2796 for Minecraft 1.12.2 loading
+[22:21:33] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_45
+[22:21:35] [main/INFO] [FML]: Searching F:\GAMES\minecraft_server_1.12.2\.\mods for mods
+[22:21:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:21:35] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:21:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:21:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:21:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:37] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:21:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:21:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:21:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:21:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:21:39] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:21:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:21:44] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2796 Initialized
+[22:21:44] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:21:44] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[22:21:44] [Server thread/INFO] [FML]: Searching F:\GAMES\minecraft_server_1.12.2\.\mods for mods
+[22:21:45] [Server thread/WARN] [FML]: Mod compactsolars is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-5.0.17.340
+[22:21:46] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.54.838
+[22:21:46] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[22:21:46] [Server thread/INFO] [FML]: Disabling mod mapwriter it is client side only.
+[22:21:46] [Server thread/INFO] [FML]: Forge Mod Loader has identified 27 mods to load
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftlib: assets/buildcraftlib/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for unidict: assets/unidict/lang/en_us.lang
+[22:21:47] [Server thread/WARN] [FML]: Missing English translation for wanionlib: assets/wanionlib/lang/en_us.lang
+[22:21:47] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.8.10.50.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:21:47] [Server thread/INFO] [FML]: FML has found a non-mod file MapWriter_1.12.2_2.8.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:21:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advanced_solar_panels, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, compactsolars, forestry, gravestone, ic2, inventorytweaks, iridiumsource, ironchest, jei, bspkrscore, treecapitator, unidict, wanionlib] at CLIENT
+[22:21:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advanced_solar_panels, appliedenergistics2, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, compactsolars, forestry, gravestone, ic2, inventorytweaks, iridiumsource, ironchest, jei, bspkrscore, treecapitator, unidict, wanionlib] at SERVER
+[22:21:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:21:50] [Server thread/INFO] [FML]: Found 1262 ObjectHolder annotations
+[22:21:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:21:50] [Server thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[22:21:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:21:50] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `molecular_transformer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_generator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `advanced_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `hybrid_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `ultimate_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:21:59] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[22:21:59] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[22:22:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[22:22:07] [Server thread/INFO] [advanced_solar_panels]: Loading ASP Config from F:\GAMES\minecraft_server_1.12.2\config\advanced_solar_panels.cfg
+[22:22:07] [Server thread/INFO] [advanced_solar_panels]: Loading MT Recipes from F:\GAMES\minecraft_server_1.12.2\config\advanced_solar_panels_MTRecipes.cfg
+[22:22:08] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:22:09] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2806
+[22:22:09] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[22:22:09] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[22:22:09] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[22:22:09] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[22:22:11] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[22:22:11] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 4211ms )
+[22:22:11] [Server thread/INFO] [BuildCraft]: 
+[22:22:11] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.20
+[22:22:11] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[22:22:11] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[22:22:11] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[22:22:11] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x
+[22:22:11] [Server thread/INFO] [BuildCraft]:   Commit 15dda24360c43b9c6f566ea69530618e557c2365
+[22:22:11] [Server thread/INFO] [BuildCraft]:     Add an advancement for the guide book recipe.
+[22:22:11] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[22:22:11] [Server thread/INFO] [BuildCraft]: 
+[22:22:11] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - lib
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - core
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - builders
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - energy
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - factory
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - robotics
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - silicon
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - transport
+[22:22:11] [Server thread/INFO] [BuildCraft]:   - compat
+[22:22:11] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[22:22:11] [Server thread/INFO] [BuildCraft]: 
+[22:22:12] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[22:22:12] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:22:13] [AE2 VersionChecker/INFO] [AE2:S]: Newer version is available: rv6-stable-6 (found) > rv6-stable-4 (current)
+[22:22:13] [AE2 VersionChecker/INFO] [AE2:S]: Changelog: Fixes #3880: Incorrect compare with empty itemstack. - yueh
+
+Fixes #3881: Check for minimum required CTM version when installed. - yueh
+[22:22:13] [AE2 VersionChecker/INFO] [AE2:S]: VersionChecker mod is not installed; Proceeding.
+[22:22:13] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[22:22:16] [Server thread/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[22:22:16] [Server thread/INFO] [forestry]: Module Mystical Agriculture Module failed to load: Mystical Agriculture not found
+[22:22:16] [Server thread/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[22:22:16] [Server thread/INFO] [forestry]: Module HarvestCraft Module failed to load: HarvestCraft not found
+[22:22:16] [Server thread/INFO] [forestry]: Module ImmersiveEngineering Module failed to load: ImmersiveEngineering not found
+[22:22:16] [Server thread/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[22:22:16] [Server thread/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[22:22:16] [Server thread/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[22:22:16] [Server thread/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[22:22:16] [Server thread/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[22:22:16] [Server thread/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[22:22:16] [Server thread/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[22:22:20] [Server thread/INFO] [BuildCraft]: 
+[22:22:20] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.20
+[22:22:20] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[22:22:20] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[22:22:20] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[22:22:20] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x
+[22:22:20] [Server thread/INFO] [BuildCraft]:   Commit c260e8e8cee2bfa63a2a5633f688fac416eff470
+[22:22:20] [Server thread/INFO] [BuildCraft]:     Add an advancement for the guide book recipe.
+[22:22:20] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[22:22:20] [Server thread/INFO] [BuildCraft]: 
+[22:22:20] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[22:22:20] [Server thread/INFO] [BuildCraft]: [compat]   + forestry
+[22:22:20] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[22:22:20] [Server thread/INFO] [Treecapitator]: Proceeding to load tree/mod configs from file.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.low_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.medium_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.high_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:22:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:22] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:22] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:22:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.0.102:25565
+[22:22:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:22:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:22:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:22:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:22:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:22:25] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
+[22:22:25] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
+[22:22:25] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:25] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:26] [Server thread/INFO] [advanced_solar_panels]: Loading Molecular Transformer recipes from file
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 23 as the output (OreDict:gemSapphire) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 24 as the output (OreDict:gemRuby) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 27 as the output (OreDict:dustChrome) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 28 as the output (OreDict:ingotChrome) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 29 as the output (OreDict:gemCertusQuartz) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 30 as the output (OreDict:ingotNickel) cannot be resolved
+[22:22:26] [Server thread/WARN] [advanced_solar_panels]: Skipping line 33 as the output (OreDict:ingotPlatinum) cannot be resolved
+[22:22:26] [Server thread/INFO] [advanced_solar_panels]: Load complete, successfully loaded 15 out of 22.
+[22:22:26] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[22:22:26] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[22:22:26] [Server thread/INFO] [AE2:S]: Initialization ( ended after 196ms )
+[22:22:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:22:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:22:27] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [PLAINS, COLD]
+[22:22:27] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[22:22:27] [Server thread/INFO] [ic2.General]: ic2 version 2.8.104-ex112 loaded.
+[22:22:27] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[22:22:27] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
+[22:22:27] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: Waila - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: Mekanism - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[22:22:27] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[22:22:28] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 475ms )
+[22:22:28] [Server thread/INFO] [Treecapitator]: Prioritizing User and IMC mod configs...
+[22:22:28] [Server thread/INFO] [Treecapitator]: Registering items and trees...
+[22:22:28] [Server thread/INFO] [wanionlib]: UniDict: Initializing Module: Integration, Side: Server
+[22:22:29] [Server thread/INFO] [wanionlib]: Crafting Integration: Why so many recipes? I had to deal with at least 41 recipes.
+[22:22:29] [Server thread/INFO] [wanionlib]: Furnace Integration: Some things that you smelted appear to be different now.
+[22:22:29] [Server thread/INFO] [wanionlib]: Applied Energistics 2 Integration: The world of energistics has never been so powerful.
+[22:22:29] [Server thread/INFO] [wanionlib]: Forestry Integration: All these bees... they can hurt, you know?
+[22:22:29] [Server thread/INFO] [wanionlib]: Industrial Craft 2 Integration: The world appears to be entirely industrialized.
+[22:22:29] [Server thread/INFO] [wanionlib]: UniDict: All 5 Integrations took 105ms to finish. at load stage PostInit
+[22:22:29] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 27 mods
+[22:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:22:30] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:22:30] [Server thread/INFO] [FML]: Applying holder lookups
+[22:22:30] [Server thread/INFO] [FML]: Holder lookups applied
+[22:22:31] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7fa76a4e)
+[22:22:32] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 562 advancements
+[22:22:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fa76a4e)
+[22:22:33] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fa76a4e)
+[22:22:33] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@7fa76a4e)
+[22:22:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:22:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[22:22:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[22:22:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
+[22:22:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
+[22:22:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
+[22:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8,745s)! For help, type "help" or "?"
+[22:22:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2351ms behind, skipping 47 tick(s)
+[22:22:41] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:22:41] [Server thread/INFO] [FML]: Unloading dimension 1
